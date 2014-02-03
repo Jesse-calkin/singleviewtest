@@ -13,10 +13,10 @@
 		88A1932517FC9DC900157DB0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88A1932417FC9DC900157DB0 /* UIKit.framework */; };
 		88A1932B17FC9DC900157DB0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 88A1932917FC9DC900157DB0 /* InfoPlist.strings */; };
 		88A1932D17FC9DC900157DB0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A1932C17FC9DC900157DB0 /* main.m */; };
-		88A1933117FC9DC900157DB0 /* SPLAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A1933017FC9DC900157DB0 /* SPLAppDelegate.m */; };
+		88A1933117FC9DC900157DB0 /* SVTAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A1933017FC9DC900157DB0 /* SVTAppDelegate.m */; };
 		88A1933417FC9DC900157DB0 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A1933217FC9DC900157DB0 /* Main_iPhone.storyboard */; };
 		88A1933717FC9DC900157DB0 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88A1933517FC9DC900157DB0 /* Main_iPad.storyboard */; };
-		88A1933A17FC9DC900157DB0 /* SPLViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A1933917FC9DC900157DB0 /* SPLViewController.m */; };
+		88A1933A17FC9DC900157DB0 /* SVTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88A1933917FC9DC900157DB0 /* SVTViewController.m */; };
 		88A1933C17FC9DC900157DB0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88A1933B17FC9DC900157DB0 /* Images.xcassets */; };
 		88A1934317FC9DC900157DB0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88A1934217FC9DC900157DB0 /* XCTest.framework */; };
 		88A1934417FC9DC900157DB0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88A1932017FC9DC800157DB0 /* Foundation.framework */; };
@@ -46,12 +46,12 @@
 		88A1932A17FC9DC900157DB0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		88A1932C17FC9DC900157DB0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		88A1932E17FC9DC900157DB0 /* singleviewtest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "singleviewtest-Prefix.pch"; sourceTree = "<group>"; };
-		88A1932F17FC9DC900157DB0 /* SPLAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SPLAppDelegate.h; sourceTree = "<group>"; };
-		88A1933017FC9DC900157DB0 /* SPLAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SPLAppDelegate.m; sourceTree = "<group>"; };
+		88A1932F17FC9DC900157DB0 /* SVTAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVTAppDelegate.h; sourceTree = "<group>"; };
+		88A1933017FC9DC900157DB0 /* SVTAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVTAppDelegate.m; sourceTree = "<group>"; };
 		88A1933317FC9DC900157DB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		88A1933617FC9DC900157DB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		88A1933817FC9DC900157DB0 /* SPLViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SPLViewController.h; sourceTree = "<group>"; };
-		88A1933917FC9DC900157DB0 /* SPLViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SPLViewController.m; sourceTree = "<group>"; };
+		88A1933817FC9DC900157DB0 /* SVTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SVTViewController.h; sourceTree = "<group>"; };
+		88A1933917FC9DC900157DB0 /* SVTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SVTViewController.m; sourceTree = "<group>"; };
 		88A1933B17FC9DC900157DB0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		88A1934117FC9DC900157DB0 /* singleviewtestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = singleviewtestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88A1934217FC9DC900157DB0 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -118,12 +118,12 @@
 		88A1932617FC9DC900157DB0 /* singleviewtest */ = {
 			isa = PBXGroup;
 			children = (
-				88A1932F17FC9DC900157DB0 /* SPLAppDelegate.h */,
-				88A1933017FC9DC900157DB0 /* SPLAppDelegate.m */,
+				88A1932F17FC9DC900157DB0 /* SVTAppDelegate.h */,
+				88A1933017FC9DC900157DB0 /* SVTAppDelegate.m */,
 				88A1933217FC9DC900157DB0 /* Main_iPhone.storyboard */,
 				88A1933517FC9DC900157DB0 /* Main_iPad.storyboard */,
-				88A1933817FC9DC900157DB0 /* SPLViewController.h */,
-				88A1933917FC9DC900157DB0 /* SPLViewController.m */,
+				88A1933817FC9DC900157DB0 /* SVTViewController.h */,
+				88A1933917FC9DC900157DB0 /* SVTViewController.m */,
 				88A1933B17FC9DC900157DB0 /* Images.xcassets */,
 				88A1932717FC9DC900157DB0 /* Supporting Files */,
 			);
@@ -205,7 +205,7 @@
 		88A1931517FC9DC800157DB0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = SPL;
+				CLASSPREFIX = SVT;
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "jesse calkin";
 				TargetAttributes = {
@@ -262,9 +262,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88A1933117FC9DC900157DB0 /* SPLAppDelegate.m in Sources */,
+				88A1933117FC9DC900157DB0 /* SVTAppDelegate.m in Sources */,
 				88A1932D17FC9DC900157DB0 /* main.m in Sources */,
-				88A1933A17FC9DC900157DB0 /* SPLViewController.m in Sources */,
+				88A1933A17FC9DC900157DB0 /* SVTViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
