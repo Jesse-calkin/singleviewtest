@@ -1,0 +1,461 @@
+Tsingleviewtest
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.pch singleviewtest/singleviewtest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o /Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o /Users/jesse/Development/singleviewtest/singleviewtest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o /Users/jesse/Development/singleviewtest/UIViewController+testToast.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o /Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest normal i386
+cGenerateDSYMFile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app.dSYM /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest
+cCompileStoryboard /Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPad.storyboard
+cCpResource singleviewtest/SassyApp.png build/Release-iphonesimulator/singleviewtest.app/SassyApp.png
+cCompileStoryboard /Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPhone.storyboard
+cCpResource singleviewtest/staron@2x.png build/Release-iphonesimulator/singleviewtest.app/staron@2x.png
+cCpResource singleviewtest/IMG_0019.JPG build/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPG
+cCopyStringsFile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/en.lproj/InfoPlist.strings singleviewtest/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app /Users/jesse/Development/singleviewtest/singleviewtest/Images.xcassets
+cProcessInfoPlistFile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Info.plist /Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Info.plist
+cTouch /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000521BCCE50000000000000176
+t1377553637
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523655D100000000000003B5
+t1379292625
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052365612000000000000019E
+t1379292690
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005236562E0000000000445830
+t1379292718
+s4479024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005236563C000000000088B570
+t1379292732
+s8959344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000523656670000000001DB1C90
+t1379292775
+s31136912
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c0000000052364DBF0000000000000AC9
+t1379290559
+s2761
+
+N/Users/jesse/Development/singleviewtest/UIViewController+testToast.m
+c0000000052D7644400000000000005A1
+t1389847620
+s1441
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app
+t1389984575
+s408
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app.dSYM
+t2
+s0
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Base.lproj/Main_iPad.storyboardc
+t1389984574
+s170
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Base.lproj/Main_iPhone.storyboardc
+t1389984575
+s170
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPG
+t1389984573
+s1011932
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Info.plist
+t1389984575
+s1305
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/PkgInfo
+t1389984575
+s8
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/SassyApp.png
+t1389984573
+s19093
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/en.lproj/InfoPlist.strings
+t1389984573
+s42
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest
+t1389984573
+s24964
+
+N/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/staron@2x.png
+t1389984573
+s4093
+
+N/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o
+t1389984573
+s64232
+
+N/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o
+t1389984573
+s57800
+
+N/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o
+t1389984573
+s42552
+
+N/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o
+t1389984573
+s3608
+
+N/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/singleviewtest.LinkFileList
+c0000000052D97B3C0000000000000259
+t1389984572
+s601
+
+N/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/assetcatalog_dependencies.txt
+t1389984574
+s379
+
+N/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/assetcatalog_generated_info.plist
+t1389984574
+s525
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPad.storyboard
+c00000000524C66490000000000000647
+t1380738633
+s1607
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPhone.storyboard
+c0000000052D8213B0000000000001117
+t1389895995
+s4375
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/IMG_0019.JPG
+c00000000524CE58900000000000F70DC
+t1380771209
+s1011932
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/Images.xcassets
+c00000000524C66490000000000000088
+t1380738633
+s136
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m
+c0000000052855D4C0000000000000832
+t1384471884
+s2098
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m
+c0000000052D8BFA400000000000008FF
+t1389936548
+s2303
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/SassyApp.png
+c000000005293E2800000000000004A95
+t1385423488
+s19093
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/en.lproj/InfoPlist.strings
+c00000000524C6649000000000000002D
+t1380738633
+s45
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/main.m
+c00000000524C66490000000000000160
+t1380738633
+s352
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Info.plist
+c0000000052855D4C0000000000000637
+t1384471884
+s1591
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Prefix.pch
+c00000000524C66490000000000000158
+t1380738633
+s344
+
+N/Users/jesse/Development/singleviewtest/singleviewtest/staron@2x.png
+c00000000524DFCDE0000000000000FFD
+t1380842718
+s4093
+
+N/var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.pch
+t1389984573
+s109096
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc503f6bbb289b841^730f05bcb289b841^---0#1#1#--18"Check dependencies36"86539450-E9DD-4F26-8DFE-567E22302DD6-
+
+CCompileAssetCatalog /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app /Users/jesse/Development/singleviewtest/singleviewtest/Images.xcassets
+s411677373.625134
+e411677374.935255
+r1
+xCompileAssetCatalog
+x/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app
+x/Users/jesse/Development/singleviewtest/singleviewtest/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/LaunchImage-700-568h@2x.png
+o/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Assets.car
+o/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/singleviewtest.app [1msingleviewtest/Images.xcassets[0m115"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/singleviewtest.app [1msingleviewtest/Images.xcassets[0m992aa0bdb289b841^d273efbeb289b841^-407"/* com.apple.actool.compilation-results *//Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/LaunchImage-700-568h@2x.png/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Assets.car/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@78"file:///Users/jesse/Development/singleviewtest/singleviewtest/Images.xcassets/0000000000000000^1439"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/singleviewtest.app [1msingleviewtest/Images.xcassets[0m    cd /Users/jesse/Development/singleviewtest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --target-device ipad --compress-pngs --compile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app /Users/jesse/Development/singleviewtest/singleviewtest/Images.xcassets36"8F039806-33AF-49D3-9AE8-52B70EBC592B-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o /Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411677373.328560
+e411677373.522351
+r1
+xCompileC
+xbuild/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o
+x/Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m
+d/Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m233"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o [1msingleviewtest/SPLAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler134954bdb289b841^93c985bdb289b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m0000000000000000^4125"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o [1msingleviewtest/SPLAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Development/singleviewtest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=203 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-generated-files.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-own-target-headers.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-all-target-headers.hmap -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-project-headers.hmap -I/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources/i386 -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources -F/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator -include /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.d --serialize-diagnostics /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.dia -c /Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.m -o /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o36"EE9EAABD-18FD-4A1E-9C76-1C4989A80244-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o /Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411677373.332771
+e411677373.540992
+r1
+xCompileC
+xbuild/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o
+x/Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m
+d/Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.h
+o[1m/Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m:39:12: [0m[0;1;35mwarning: [0m[1mincompatible pointer types returning 'NSObject<NSCopying,NSSecureCoding,NSCoding,NSObject> *' from a function
+o      with result type 'NSString *' [-Wincompatible-pointer-types][0m
+o    return stringToReturn ?: [NSNull null];
+o[0;1;32m           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o[0m1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m239"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o [1msingleviewtest/SPLViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler64b155bdb289b841^23858abdb289b841^-418"[1m/Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m:39:12: [0m[0;1;35mwarning: [0m[1mincompatible pointer types returning 'NSObject<NSCopying,NSSecureCoding,NSCoding,NSObject> *' from a function      with result type 'NSString *' [-Wincompatible-pointer-types][0m    return stringToReturn ?: [NSNull null];[0;1;32m           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@139"Incompatible pointer types returning 'NSObject<NSCopying,NSSecureCoding,NSCoding,NSObject> *' from a function with result type 'NSString *'-411677373#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@81"file:///Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m0000000000000000^38#11#38#11#916#0#14"Semantic Issue1(3@81"file:///Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m0000000000000000^38#11#38#42#916#30#-0#0#1#-19%DVTDocumentLocation4@81"file:///Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m0000000000000000^4143"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o [1msingleviewtest/SPLViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Development/singleviewtest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=203 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-generated-files.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-own-target-headers.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-all-target-headers.hmap -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-project-headers.hmap -I/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources/i386 -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources -F/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator -include /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.d --serialize-diagnostics /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.dia -c /Users/jesse/Development/singleviewtest/singleviewtest/SPLViewController.m -o /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o36"E4C79714-17FF-4D34-A33A-921D019A8B9F-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o /Users/jesse/Development/singleviewtest/UIViewController+testToast.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411677373.332501
+e411677373.494440
+r1
+xCompileC
+xbuild/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o
+x/Users/jesse/Development/singleviewtest/UIViewController+testToast.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Development/singleviewtest/UIViewController+testToast.m
+d/Users/jesse/Development/singleviewtest/UIViewController+testToast.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/jesse/Development/singleviewtest/UIViewController+testToast.m242"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o [1mUIViewController+testToast.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler875055bdb289b841^7eaa7ebdb289b841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/jesse/Development/singleviewtest/UIViewController+testToast.m0000000000000000^4167"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o [1mUIViewController+testToast.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Development/singleviewtest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=203 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-generated-files.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-own-target-headers.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-all-target-headers.hmap -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-project-headers.hmap -I/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources/i386 -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources -F/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator -include /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.d --serialize-diagnostics /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.dia -c /Users/jesse/Development/singleviewtest/UIViewController+testToast.m -o /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o36"267451A0-4202-4BD6-8F90-902EBC1788D7-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCompileC build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o /Users/jesse/Development/singleviewtest/singleviewtest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411677373.332500
+e411677373.424503
+r1
+xCompileC
+xbuild/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o
+x/Users/jesse/Development/singleviewtest/singleviewtest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Development/singleviewtest/singleviewtest/main.m
+d/Users/jesse/Development/singleviewtest/singleviewtest/SPLAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/jesse/Development/singleviewtest/singleviewtest/main.m213"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o [1msingleviewtest/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler815c5abdb289b841^39b86cbdb289b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/jesse/Development/singleviewtest/singleviewtest/main.m0000000000000000^4065"[1mCompileC[0m build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o [1msingleviewtest/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Development/singleviewtest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=203 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-generated-files.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-own-target-headers.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-all-target-headers.hmap -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-project-headers.hmap -I/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources/i386 -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources -F/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator -include /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch -MMD -MT dependencies -MF /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.dia -c /Users/jesse/Development/singleviewtest/singleviewtest/main.m -o /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o36"DE6309B8-0590-4DB1-A3DE-561F055276A2-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCompileStoryboard /Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPad.storyboard
+s411677373.617142
+e411677374.890447
+r1
+xCompileStoryboard
+x/Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPad.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"[1mCompileStoryboard[0m [1msingleviewtest/Base.lproj/Main_iPad.storyboard[0m80"[1mCompileStoryboard[0m [1msingleviewtest/Base.lproj/Main_iPad.storyboard[0m86219ebdb289b841^62f9e3beb289b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPad.storyboard0000000000000000^1128"[1mCompileStoryboard[0m [1msingleviewtest/Base.lproj/Main_iPad.storyboard[0m    cd /Users/jesse/Development/singleviewtest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Base.lproj/Main_iPad.storyboardc /Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPad.storyboard36"8951C2AD-49F4-4AE6-858B-F9DBE203FC2A-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCompileStoryboard /Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPhone.storyboard
+s411677373.617670
+e411677375.022568
+r1
+xCompileStoryboard
+x/Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPhone.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"[1mCompileStoryboard[0m [1msingleviewtest/Base.lproj/Main_iPhone.storyboard[0m82"[1mCompileStoryboard[0m [1msingleviewtest/Base.lproj/Main_iPhone.storyboard[0m85409ebdb289b841^37c705bfb289b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPhone.storyboard0000000000000000^1134"[1mCompileStoryboard[0m [1msingleviewtest/Base.lproj/Main_iPhone.storyboard[0m    cd /Users/jesse/Development/singleviewtest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Base.lproj/Main_iPhone.storyboardc /Users/jesse/Development/singleviewtest/singleviewtest/Base.lproj/Main_iPhone.storyboard36"8D8CB4CC-BE98-4F98-87B4-3D626E8EF991-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCopyStringsFile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/en.lproj/InfoPlist.strings singleviewtest/en.lproj/InfoPlist.strings
+s411677373.621103
+e411677373.624943
+r1
+xCopyStringsFile
+x/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/en.lproj/InfoPlist.strings
+xsingleviewtest/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy singleviewtest/en.lproj/InfoPlist.strings141"[1mCopyStringsFile[0m build/Release-iphonesimulator/singleviewtest.app/en.lproj/InfoPlist.strings singleviewtest/en.lproj/InfoPlist.strings93579fbdb289b841^bdfb9fbdb289b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/jesse/Development/singleviewtest/singleviewtest/en.lproj/InfoPlist.strings0000000000000000^858"[1mCopyStringsFile[0m build/Release-iphonesimulator/singleviewtest.app/en.lproj/InfoPlist.strings singleviewtest/en.lproj/InfoPlist.strings    cd /Users/jesse/Development/singleviewtest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/en.lproj -- singleviewtest/en.lproj/InfoPlist.strings36"EA83D9E2-5757-4D29-BF3C-07CD110F9E6F-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCpResource singleviewtest/IMG_0019.JPG build/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPG
+s411677373.620566
+e411677373.662899
+r1
+xCpResource
+xsingleviewtest/IMG_0019.JPG
+xbuild/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPG
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPG108"[1mCpResource[0m singleviewtest/IMG_0019.JPG build/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPGecf99ebdb289b841^fcc4a9bdb289b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPG0034007bdfffdf42^987"[1mCpResource[0m singleviewtest/IMG_0019.JPG build/Release-iphonesimulator/singleviewtest.app/IMG_0019.JPG    cd /Users/jesse/Development/singleviewtest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jesse/Development/singleviewtest/singleviewtest/IMG_0019.JPG /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app36"5AF320DE-7F98-4413-8A6F-2C9DC242612D-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCpResource singleviewtest/SassyApp.png build/Release-iphonesimulator/singleviewtest.app/SassyApp.png
+s411677373.617427
+e411677373.620976
+r1
+xCpResource
+xsingleviewtest/SassyApp.png
+xbuild/Release-iphonesimulator/singleviewtest.app/SassyApp.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Release-iphonesimulator/singleviewtest.app/SassyApp.png108"[1mCpResource[0m singleviewtest/SassyApp.png build/Release-iphonesimulator/singleviewtest.app/SassyApp.png772c9ebdb289b841^f7029fbdb289b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/SassyApp.png0034007bdfffdf42^987"[1mCpResource[0m singleviewtest/SassyApp.png build/Release-iphonesimulator/singleviewtest.app/SassyApp.png    cd /Users/jesse/Development/singleviewtest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jesse/Development/singleviewtest/singleviewtest/SassyApp.png /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app36"1406B938-AB7E-4F0C-9642-6B693F69A327-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CCpResource singleviewtest/staron@2x.png build/Release-iphonesimulator/singleviewtest.app/staron@2x.png
+s411677373.618607
+e411677373.620079
+r1
+xCpResource
+xsingleviewtest/staron@2x.png
+xbuild/Release-iphonesimulator/singleviewtest.app/staron@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Release-iphonesimulator/singleviewtest.app/staron@2x.png110"[1mCpResource[0m singleviewtest/staron@2x.png build/Release-iphonesimulator/singleviewtest.app/staron@2x.pnge2789ebdb289b841^34bf9ebdb289b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/staron@2x.png0034007bdfffdf42^990"[1mCpResource[0m singleviewtest/staron@2x.png build/Release-iphonesimulator/singleviewtest.app/staron@2x.png    cd /Users/jesse/Development/singleviewtest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/jesse/Development/singleviewtest/singleviewtest/staron@2x.png /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app36"F1A7A687-C0EB-4CC2-A60B-FBD429524311-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CGenerateDSYMFile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app.dSYM /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest
+s411677373.601746
+e411677373.616642
+r1
+xGenerateDSYMFile
+x/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app.dSYM
+x/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app.dSYM150"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/singleviewtest.app.dSYM[0m build/Release-iphonesimulator/singleviewtest.app/singleviewtest14209abdb289b841^a0dd9dbdb289b841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app.dSYM0034007bdfffdf42^935"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/singleviewtest.app.dSYM[0m build/Release-iphonesimulator/singleviewtest.app/singleviewtest    cd /Users/jesse/Development/singleviewtest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest -o /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app.dSYM36"DE161C7F-E7F9-48F2-9176-F9E8A99B6720-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CLd /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest normal i386
+s411677373.542879
+e411677373.600925
+r1
+xLd
+x/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest
+xnormal
+xi386
+d/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/singleviewtest.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLAppDelegate.o
+d/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/main.o
+d/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/UIViewController+testToast.o
+d/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/SPLViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest86"[1mLd[0m build/Release-iphonesimulator/singleviewtest.app/singleviewtest normal i3864b1e8bbdb289b841^34d799bdb289b841^---0#0#1#--1662"[1mLd[0m build/Release-iphonesimulator/singleviewtest.app/singleviewtest normal i386    cd /Users/jesse/Development/singleviewtest    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator -F/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator -filelist /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/singleviewtest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/Objects-normal/i386/singleviewtest_dependency_info.dat -o /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/singleviewtest36"27F84A64-348E-48B6-BD5D-0B1541066C58-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CProcessInfoPlistFile /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Info.plist /Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Info.plist
+s411677375.023579
+e411677375.025467
+r1
+xProcessInfoPlistFile
+x/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Info.plist
+x/Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Process /Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Info.plist137"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/singleviewtest.app/Info.plist [1msingleviewtest/singleviewtest-Info.plist[0m3e2606bfb289b841^778506bfb289b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Info.plist0000000000000000^1174"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/singleviewtest.app/Info.plist [1msingleviewtest/singleviewtest-Info.plist[0m    cd /Users/jesse/Development/singleviewtest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    builtin-infoPlistUtility /Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Info.plist -genpkginfo /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/assetcatalog_generated_info.plist -o /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app/Info.plist36"697D6459-1E1C-457A-85AC-F1AA759F9DDD-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CProcessPCH /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.pch singleviewtest/singleviewtest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s411677372.023837
+e411677373.325516
+r1
+xProcessPCH
+x/var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.pch
+xsingleviewtest/singleviewtest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile singleviewtest/singleviewtest-Prefix.pch324"[1mProcessPCH[0m /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.pch singleviewtest/singleviewtest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8a5a06bcb289b841^d0616abdb289b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Prefix.pch0000000000000000^4170"[1mProcessPCH[0m /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.pch singleviewtest/singleviewtest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jesse/Development/singleviewtest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/bin:/usr/local/share:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin:/Users/jesse/Development/android/sdk//tools:/Users/jesse/Development/android/sdk//platform-tools:/Users/jesse/Development/android/sdk//build-tools/android-4.2.2:"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=203 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-generated-files.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-own-target-headers.hmap -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-all-target-headers.hmap -iquote /Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/singleviewtest-project-headers.hmap -I/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources/i386 -I/Users/jesse/Development/singleviewtest/build/singleviewtest.build/Release-iphonesimulator/singleviewtest.build/DerivedSources -F/Users/jesse/Development/singleviewtest/build/Release-iphonesimulator --serialize-diagnostics /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.d -c /Users/jesse/Development/singleviewtest/singleviewtest/singleviewtest-Prefix.pch -o /var/folders/sz/h777yf0530d_l3cvyysw178c0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/singleviewtest-Prefix-bjeshxacxocbgsastwhnfqkkfqcr/singleviewtest-Prefix.pch.pch36"FFACE839-D01E-45F5-869D-747730BAFF1E-
+b45F6ED1B-4B7C-4602-BA15-58BCACC2C074
+
+CTouch /Users/jesse/Development/singleviewtest/build/Release-iphonesimulator/singleviewtest.app
+r0
+

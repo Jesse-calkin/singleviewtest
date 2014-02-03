@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="4510" systemVersion="13B42" targetRuntime="iOS.CocoaTouch.iPad" propertyAccessControl="none" useAutolayout="YES" initialViewController="qHT-fO-X8r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3742"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller - modalSegue-->
+        <scene sceneID="KvV-Wa-liU">
+            <objects>
+                <viewController title="modalSegue" id="qHT-fO-X8r" customClass="SPLViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="fjV-j3-WKw"/>
+                        <viewControllerLayoutGuide type="bottom" id="xnn-xn-jBt"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="4bl-tE-Jz0">
+                        <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_0019.JPG" translatesAutoresizingMaskIntoConstraints="NO" id="hUZ-I7-ixI">
+                                <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5R7-ea-V9q">
+                                <rect key="frame" x="304" y="370" width="160" height="284"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <state key="normal" title="TAP">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="buttonTapped:" destination="qHT-fO-X8r" eventType="touchUpInside" id="6nz-AI-2WW"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="sRB-Lm-Jxn" appends="YES" id="G0t-h6-cAS"/>
+                        </connections>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="hUZ-I7-ixI" id="RM9-3g-Xkf"/>
+                        <outlet property="recognizer" destination="sRB-Lm-Jxn" id="bwL-iA-hKb"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Z0E-3R-4Ab" sceneMemberID="firstResponder"/>
+                <rotationGestureRecognizer delaysTouchesEnded="NO" id="sRB-Lm-Jxn">
+                    <connections>
+                        <action selector="rotationGestureRecognized:" destination="qHT-fO-X8r" id="7aH-dv-t7o"/>
+                    </connections>
+                </rotationGestureRecognizer>
+            </objects>
+            <point key="canvasLocation" x="-184" y="-732"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="IMG_0019.JPG" width="2308" height="1536"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar" statusBarStyle="blackOpaque"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination"/>
+    </simulatedMetricsContainer>
+</document>
